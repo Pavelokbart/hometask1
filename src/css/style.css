@@ -1,0 +1,145 @@
+.section
+{
+    max-width: 1260px; 
+    margin: 0 auto; 
+    padding: 0 15px; 
+
+}
+.main
+{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    
+    
+}
+.main_leftpart
+{
+    display: flex;
+    align-items: center;
+    
+}
+.leftpart_blocktxtimg
+{
+    display: flex;
+    align-items: center;
+
+}
+.rightpart_blocktxtimg
+{
+    display: flex;
+    align-items: center;
+
+}
+.main_leftpart
+{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+   
+   
+    
+
+
+
+}
+
+.main_leftpart__txt1
+{
+    font-family: 'Hind Siliguri';
+    
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #c9d2d8;
+
+}
+.main_leftpart__txt2
+{
+
+    font-family: "Hind Siliguri";
+    font-size: 31px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F4F9FC;
+
+}
+.main_leftpart__txt3
+{
+    font-family: 'Hind Siliguri';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F4F9FC;
+    
+
+
+
+}
+.main_rightpart__txt1
+{
+    font-family: 'Hind Siliguri';
+    
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #c9d2d8;
+
+}
+.main_rightpart__txt2
+{
+
+    font-family: "Hind Siliguri";
+    font-size: 31px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F4F9FC;
+
+}
+.main_rightpart__txt3
+{
+    font-family: 'Hind Siliguri';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F4F9FC;
+    
+
+
+
+}
+.main_rightpart
+{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+    
+    position: relative; /* Устанавливаем позицию элемента как относительную */
+    z-index: 1; /* Устанавливаем высокий z-index, чтобы элемент был выше других элементов */
+    
+
+
+
+}
+.main_rightpart
+{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+.main_imgtxt
+{
+    margin-left:35px ;
+}
+
+
